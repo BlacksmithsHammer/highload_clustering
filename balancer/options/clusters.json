@@ -1,0 +1,12 @@
+[
+    {
+        "name": "cluster_1",
+        "port": 3501,
+        "hostname": "http://localhost:"
+    },
+    {
+        "name": "cluster_2",
+        "port": 3502,
+        "hostname": "http://localhost:"
+    }
+]
